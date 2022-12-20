@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://eastheat10.github.io/'
 title = 'eastheat10'
+enableGitInfo = true
+theme = 'hugo-book'
+
+[params]
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/eastheat10/eastheat10.github.io'
